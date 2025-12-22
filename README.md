@@ -1,0 +1,15 @@
+# bubble_hockey_restoration
+Restoring bubble hockey table
+
+## 2025-12-1
+* Won table at auction. $160
+
+## 2025-12-20
+* Powered on
+* Doesn't always power on correctly.
+
+## 2025-12-21
+* Cleaned several "gunked up" gear boxkes with soap, water. Lubricated with WD40 silicon spray
+
+## 2025-12-22
+* Rewiring coin slots to a button

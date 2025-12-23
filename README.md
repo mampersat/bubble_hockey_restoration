@@ -1,5 +1,6 @@
 # bubble_hockey_restoration
 Restoring bubble hockey table
+![It's alive](images/first_light.jpg)
 
 ## 2025-12-1
 * Won table at auction. $160
@@ -13,3 +14,6 @@ Restoring bubble hockey table
 
 ## 2025-12-22
 * Rewiring coin slots to a button
+
+## 2025-12-23
+* Ordered dome polish + goalie block $59.71

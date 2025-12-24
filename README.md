@@ -13,7 +13,9 @@ Restoring bubble hockey table
 * Cleaned several "gunked up" gear boxkes with soap, water. Lubricated with WD40 silicon spray
 
 ## 2025-12-22
-* Rewiring coin slots to a button
+* Ordered 3 replacement players from ebay $94.91
+* Rewiring coin slot to a button
+<br><img src="images/coin_button.png" height="250">
 
 ## 2025-12-23
 * Ordered dome polish + goalie block $59.71

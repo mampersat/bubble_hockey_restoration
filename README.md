@@ -2,7 +2,7 @@
 Restoring bubble hockey table
 ![It's alive](images/first_light.jpg)
 
-## 2025-12-1
+## 2025-12-01
 * Won table at auction. $160
 
 ## 2025-12-20
